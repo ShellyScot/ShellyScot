@@ -2,7 +2,7 @@
 ![](440fc7626bbbf4ebfa44a563e325767b.jpg)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Kingtebe/Kingtebe/master/img/ssstiktok_1644891844.gif" width=1000>
+   <img src="https://raw.githubusercontent.com/ShellyScot/ShellyScot/master/img/ssstiktok_1644891844.gif" width=1000>
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShellyScot&repo=HACK-BULAN&theme=chartreuse-dark)](https://github.com/ShellyScot/HACK-BULAN)  
