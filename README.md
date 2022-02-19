@@ -12,5 +12,5 @@
 
 ######
 
-#Github Stats 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShellyScot&show_icons=true&theme=radical)<br> 
+<p align="center">
+  <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=ShellyScot&theme=monokai&row=1&column=5&no-frame=true'
