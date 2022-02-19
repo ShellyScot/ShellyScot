@@ -4,12 +4,6 @@
 <p align="center">
    <img src="https://raw.githubusercontent.com/ShellyScot/ShellyScot/master/img/ssstiktok_1644891844.gif" width=1000>
 </p>
-
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/ShellyScot/ShellyScot/master/img/shelly.gif" width=1000>
-</p>
-
 <p align="center">
    <img src="https://raw.githubusercontent.com/ShellyScot/ShellyScot/master/img/shelly2.gif" width=1000>
 </p>
