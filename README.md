@@ -6,7 +6,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShellyScot&repo=HACK-BULAN&theme=chartreuse-dark)](https://github.com/ShellyScot/HACK-BULAN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShellyScot&repo=Satelit&theme=chartreuse-dark)](https://github.com/ShellyScot/Satelit)  
-
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShellyScot&layout=compact" alt="Top language
 
