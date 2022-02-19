@@ -9,4 +9,6 @@
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayan-XD&layout=compact" alt="Top language
-#Github Stats ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShellyScot&show_icons=true&theme=radical)<br> 
+
+#Github Stats 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShellyScot&show_icons=true&theme=radical)<br> 
